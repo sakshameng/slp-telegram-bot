@@ -26,3 +26,4 @@ Distributes SLP tokens in a specified Telegram chat room to a list of registered
 5. `cd sip-telegram-bot`
 6. `npm install`
 7. `CHAT_ID="____" BOT_TOKEN="____" MNEMONIC="___ ___ ___" BITDB_KEY="___" node .` NOTE: To get your chat id you can run this step without CHAT_ID variable and your chat id will be printed to the console.  After you have your chat id you can re-run this command using the appropriate chat id to enable the bot for your chat.
+[Deploy](https://heroku.com/deploy?template=https://github.com/sakshameng/slp-telegram-bot.git)
